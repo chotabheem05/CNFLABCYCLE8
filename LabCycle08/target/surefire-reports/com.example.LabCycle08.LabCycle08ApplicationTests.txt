@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.LabCycle08.LabCycle08ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.882 s -- in com.example.LabCycle08.LabCycle08ApplicationTests
